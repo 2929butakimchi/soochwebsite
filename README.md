@@ -1,4 +1,4 @@
-# soochwebsite
+# purpose
 website for Azure test
 
 # websiteURL
